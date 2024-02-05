@@ -1,0 +1,40 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "username": "anilmaharajn995",
+            "password": "anil123",
+            "expenses-categories": [
+                {
+                    "id": "1",
+                    "name": "travels",
+                    "description": "lorem ipsum",
+                    "recuring expenses": "true"
+                }
+            ],
+            "saving-categories": {
+                "id": "1",
+                "name": "Education",
+                "desired amount": "1000",
+                "saved amount": "500"
+            },
+            "amount left": "2000"
+        }
+    ],
+    "expenses-categories": [
+        {
+            "id": "1",
+            "name": "travels",
+            "description": "lorem ipsum",
+            "recuring expenses": "true"
+        }
+    ],
+    "saving-categories": [
+        {
+            "id": "1",
+            "name": "Education",
+            "desired amount": "1000",
+            "saved amount": "500"
+        }
+    ]
+}
